@@ -1,5 +1,2 @@
 streamlit
 openai
-bs4
-requests
-pdfkit
